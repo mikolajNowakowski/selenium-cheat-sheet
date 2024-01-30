@@ -16,7 +16,6 @@ import java.util.function.Function;
 public class FluentWait {
 
 
-
     String url = "https://www.automationtesting.co.uk/loadertwo.html";
 
 
@@ -34,6 +33,4 @@ public class FluentWait {
         WebElement para = wait.until(webDriver -> webDriver.findElement(By.xpath("//p[@id = 'appears']")));
 
     }
-
-
 }
