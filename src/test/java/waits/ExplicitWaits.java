@@ -13,7 +13,8 @@ public class ExplicitWaits {
 
 
     // Expected Conditions:
-    // - elementToBeClickable()
+    // - elementToBeClickable()git status
+
     // - elementToBoSelected()
     // - visibilitiOf()
     // - visibilityOfAllElements()
